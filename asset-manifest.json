@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hardik-portfolio/static/css/main.80c85555.css",
+    "main.js": "/hardik-portfolio/static/js/main.e592754d.js",
+    "static/js/592.d8f872c9.chunk.js": "/hardik-portfolio/static/js/592.d8f872c9.chunk.js",
+    "index.html": "/hardik-portfolio/index.html",
+    "main.80c85555.css.map": "/hardik-portfolio/static/css/main.80c85555.css.map",
+    "main.e592754d.js.map": "/hardik-portfolio/static/js/main.e592754d.js.map",
+    "592.d8f872c9.chunk.js.map": "/hardik-portfolio/static/js/592.d8f872c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c85555.css",
+    "static/js/main.e592754d.js"
+  ]
+}
