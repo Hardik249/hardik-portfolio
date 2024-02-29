@@ -28,7 +28,7 @@ export default function Projects() {
             id:4,
             title: "Matrimonial Website based Web application",
             description: "Admin Website, Backend Website Development",
-            technology: "Core PHP, CodeIgneter, HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap",
+            technology: "Core PHP, CodeIgniter, HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap",
             duration: "Feb 2022 - May 2022"
         }
     ]
